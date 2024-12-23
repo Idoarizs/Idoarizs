@@ -48,21 +48,7 @@
 
 - **NextJS:** 🚀 A React-based framework that supports server-side rendering and static site generation. It is great for improving page loading speed, SEO optimization, and ensuring fast navigation, all crucial for enhancing UX.
 
-## **Mobile App Development** 📱  
-<p align="left"> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-  </a> 
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
-  </a> 
-</p>
-
-- **Flutter:** 🦋 Flutter is a UI toolkit for building natively compiled applications. It enables developers to create highly interactive, smooth, and responsive UIs, adhering to mobile UX best practices like intuitive navigation and gesture support.
-
-- **Dart:** 🌍 Dart is the programming language used for building apps with Flutter. It is optimized for building high-performance apps that offer a seamless user experience with fast rendering and responsive designs.
-
-## **Database & Backend Development** ⚙️  
+## **Backend Development & Database** ⚙️  
 <p align="left"> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
@@ -85,6 +71,20 @@
 - **Python:** 🐍 Python is widely used for backend development and data processing. It helps implement features that focus on performance and reliability, ensuring that the server-side logic works seamlessly to support the overall user experience.
 
 - **Flask:** 🏗️ A lightweight Python framework that is great for building scalable web applications. Flask allows for the creation of clean, maintainable APIs, providing users with smooth interactions through optimized backend logic.
+
+## **Mobile App Development** 📱  
+<p align="left"> 
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
+  </a> 
+  <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
+  </a> 
+</p>
+
+- **Flutter:** 🦋 Flutter is a UI toolkit for building natively compiled applications. It enables developers to create highly interactive, smooth, and responsive UIs, adhering to mobile UX best practices like intuitive navigation and gesture support.
+
+- **Dart:** 🌍 Dart is the programming language used for building apps with Flutter. It is optimized for building high-performance apps that offer a seamless user experience with fast rendering and responsive designs.
 
 ## **AI/ML Model Development & Data Science** 📊  
 <p align="left"> 

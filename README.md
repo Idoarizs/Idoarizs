@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aodi Rizky Saputra</h1>
-<h3 align="center">A passionate learner in Technology, striving to create valuable solutions with a positive impact.</h3>
+<h3 align="left">A passionate learner in Technology, striving to create valuable solutions with a positive impact.</h3>
 
 - 🌱 I’m currently learning **Web & Mobile App Development, AI/ML Model Development, and Data Science**
 - 👨‍💻 All of my projects are available at [Aodi's Projects](https://aodisaputra.vercel.app/)

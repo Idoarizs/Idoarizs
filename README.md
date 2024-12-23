@@ -62,8 +62,11 @@
 
 - **Dart:** 🌍 Dart is the programming language used for building apps with Flutter. It is optimized for building high-performance apps that offer a seamless user experience with fast rendering and responsive designs.
 
-## **Backend Development** ⚙️  
+## **Database & Backend Development** ⚙️  
 <p align="left"> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a> 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.peanutsquare.com/wp-content/uploads/2024/04/Express.png" alt="express" width="40" height="40"/> 
   </a> 
@@ -75,17 +78,16 @@
   </a> 
 </p>
 
+- **MySQL:** 🗃️ A relational database management system used for storing and organizing data. It helps improve user experience by ensuring data is structured efficiently and accessed quickly.
+
 - **Express.js:** 🔥 A flexible Node.js framework used for building fast and scalable web applications. It is great for creating robust APIs that enhance performance, which directly improves user experience by ensuring quick data retrieval.
 
 - **Python:** 🐍 Python is widely used for backend development and data processing. It helps implement features that focus on performance and reliability, ensuring that the server-side logic works seamlessly to support the overall user experience.
 
 - **Flask:** 🏗️ A lightweight Python framework that is great for building scalable web applications. Flask allows for the creation of clean, maintainable APIs, providing users with smooth interactions through optimized backend logic.
 
-## **Database & Data Science** 📊  
+## **AI/ML Development & Data Science** 📊  
 <p align="left"> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
   </a> 
@@ -99,8 +101,6 @@
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
   </a> 
 </p>
-
-- **MySQL:** 🗃️ A relational database management system used for storing and organizing data. It helps improve user experience by ensuring data is structured efficiently and accessed quickly.
 
 - **Pandas:** 🐼 A data manipulation library in Python, useful for handling large datasets. It plays a crucial role in data analysis, enabling data-driven decisions that can be used to improve UI/UX based on real user behavior.
 

@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aodi Rizky Saputra</h1>
-<h3 align="center">A passionate learner in Technology, striving to create valuable solutions with a positive impact.</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xUOxf48lXlIl0DW90Y/giphy.gif" width="100" />
-</p>
+<h1 align="left">Hi 👋, I'm Aodi Rizky Saputra</h1>
+<h3 align="left">A passionate learner in Technology, striving to create valuable solutions with a positive impact.</h3>
 
 - 🌱 I’m currently learning **Web & Mobile App Development, AI/ML Model Development, and Data Science**
 - 👨‍💻 All of my projects are available at [Aodi's Projects](https://aodisaputra.vercel.app/)
@@ -24,7 +20,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-### Frontend Development:
+### Frontend Development
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -46,7 +42,21 @@
   </a> 
 </p>
 
-### Mobile App Development:
+**Frontend Tools**
+
+- **HTML:** HTML structures the content of web pages and defines the layout. It is key to making sure users can easily navigate the webpage and understand its content, supporting accessibility and usability.
+  
+- **CSS:** CSS defines how HTML elements should be styled, enabling designers to craft responsive, visually appealing designs. Good use of CSS ensures alignment with UI/UX principles like consistency, simplicity, and accessibility.
+
+- **Bootstrap:** A responsive design framework that offers pre-built CSS and JavaScript components. It ensures that websites look good on all devices, following the principle of mobile-first design and providing an efficient path to responsive layouts.
+
+- **Tailwind CSS:** Tailwind is a utility-first CSS framework that provides numerous classes to apply styles directly in the HTML. It accelerates development while maintaining design flexibility, encouraging minimalism and consistent styling across the application.
+
+- **React:** React is used for building user interfaces, especially for single-page applications. It promotes component-based design, enabling reusable UI elements that enhance maintainability and interactivity, key elements of a seamless user experience.
+
+- **Next.js:** A React-based framework that supports server-side rendering and static site generation. It is great for improving page loading speed, SEO optimization, and ensuring fast navigation, all crucial for enhancing UX.
+
+### Mobile App Development
 <p align="left"> 
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
@@ -56,7 +66,13 @@
   </a> 
 </p>
 
-### Backend Development:
+**Mobile App Tools**
+
+- **Flutter:** Flutter is a UI toolkit for building natively compiled applications. It enables developers to create highly interactive, smooth, and responsive UIs, adhering to mobile UX best practices like intuitive navigation and gesture support.
+
+- **Dart:** Dart is the programming language used for building apps with Flutter. It is optimized for building high-performance apps that offer a seamless user experience with fast rendering and responsive designs.
+
+### Backend Development
 <p align="left"> 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
@@ -68,6 +84,14 @@
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
   </a> 
 </p>
+
+**Backend Tools**
+
+- **Express.js:** A flexible Node.js framework used for building fast and scalable web applications. It is great for creating robust APIs that enhance performance, which directly improves user experience by ensuring quick data retrieval.
+
+- **Python:** Python is widely used for backend development and data processing. It helps implement features that focus on performance and reliability, ensuring that the server-side logic works seamlessly to support the overall user experience.
+
+- **Flask:** A lightweight Python framework that is great for building scalable web applications. Flask allows for the creation of clean, maintainable APIs, providing users with smooth interactions through optimized backend logic.
 
 ### Database & Data Science:
 <p align="left"> 
@@ -88,47 +112,33 @@
   </a> 
 </p>
 
+**Database & Data Science Tools:**
+
+- **MySQL:** A relational database management system used for storing and organizing data. It helps improve user experience by ensuring data is structured efficiently and accessed quickly.
+
+- **Pandas:** A data manipulation library in Python, useful for handling large datasets. It plays a crucial role in data analysis, enabling data-driven decisions that can be used to improve UI/UX based on real user behavior.
+
+- **Scikit-learn:** A library for machine learning in Python that is used for building predictive models. It enhances user experience by enabling intelligent, personalized recommendations and predictions.
+
+- **TensorFlow:** An open-source machine learning framework that is often used for building neural networks. It allows for the implementation of AI-driven features that can adapt and improve user experience over time.
+
+- **Seaborn:** A Python library based on Matplotlib used for creating statistical data visualizations. It helps in presenting complex data in a way that is easily understood by users, improving UX through clarity and comprehensibility.
+
 ### Design & Prototyping:
 <p align="left"> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a> 
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Adobe_Illustrator_CC_icon.png" alt="illustrator" width="40" height="40"/> 
   </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-  </a> 
-</p>
-
-### Version Control & Collaboration:
-<p align="left"> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Adobe_Photoshop_Express_Logo.png" alt="photoshop" width="40" height="40"/> 
   </a> 
 </p>
 
-### API & Networking:
-<p align="left"> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a> 
-</p>
+**Design Tools:**
 
----
+- **Figma:** A collaborative interface design tool that allows teams to create high-fidelity prototypes and UI designs. It’s essential for refining the visual elements of a product, supporting UX principles like consistency and accessibility.
 
-<h3 align="center">Thanks for visiting my profile! 🙏</h3>
-<p align="center">
-  <img src="https://media.giphy.com/media/26xBqzqG4dHtSxFd6/giphy.gif" width="100" />
-</p>
-
----
-
-Support 🙏  
-Are you using the tool and happy with it to create your GitHub Profile?  
-Your kind support keeps open-source tools like this free for others.  
-[tweet github profile readme generator](https://twitter.com/intent/tweet?url=https://github.com/rahuldkjain/github-profile-readme-generator)  
-Let the world know how you feel using this tool. Share with others on Twitter.
-
-Tip💰  
-Buy me a coffee: [Ko-fi](https://ko-fi.com/rahuldkjain) | [PayPal](https://paypal.me/rahuldkjain)
+- **Adobe Illustrator & Photoshop:** Both tools are used for creating vector graphics and high-quality images. They help designers craft visuals that align with the desired aesthetic and user experience, whether it's for icons, illustrations, or detailed designs.

@@ -1,5 +1,5 @@
 # **About Me**  
-## A passionate learner in Technology, striving to create valuable solutions with a positive impact.
+##  I am passionate about learning and discovering new things that spark my interest, striving to create valuable solutions with a positive impact.
 
 🌱 Currently diving deep into **Web & Mobile App Development**, **AI/ML Model Development**, and **Data Science** to expand my knowledge and build impactful solutions.  
 👨‍💻 Explore all of my projects on my [**Personal Website**](https://aodisaputra.vercel.app/), showcasing my learning journey.  

@@ -1,24 +1,18 @@
-<h1 align="left">Hi 👋, I'm Aodi Rizky Saputra</h1>
-<h3 align="left">A passionate learner in Technology, striving to create valuable solutions with a positive impact.</h3>
+<h1 align="center">Hi 👋, I'm Aodi Rizky Saputra</h1>
+<h3 align="center">A passionate learner in Technology, striving to create valuable solutions with a positive impact.</h3>
 
 - 🌱 I’m currently learning **Web & Mobile App Development, AI/ML Model Development, and Data Science**
 - 👨‍💻 All of my projects are available at [Aodi's Projects](https://aodisaputra.vercel.app/)
 - 📫 How to reach me: **aodirizky05@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Soial Media</h3>
 <p align="left">
   <a href="https://linkedin.com/in/aodisaputra" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aodisaputra" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/aodisaputra" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Twitter_Logo_2021.svg/1200px-Twitter_Logo_2021.svg.png" alt="aodisaputra" height="30" width="40" />
-  </a>
-  <a href="https://github.com/aodisaputra" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1200px-Octicons-mark-github.svg.png" alt="aodisaputra" height="30" width="40" />
-  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 
 ### Frontend Development
 <p align="left"> 
@@ -93,7 +87,7 @@
 
 - **Flask:** A lightweight Python framework that is great for building scalable web applications. Flask allows for the creation of clean, maintainable APIs, providing users with smooth interactions through optimized backend logic.
 
-### Database & Data Science:
+### Database & Data Science
 <p align="left"> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
@@ -112,7 +106,7 @@
   </a> 
 </p>
 
-**Database & Data Science Tools:**
+**Database & Data Science Tools**
 
 - **MySQL:** A relational database management system used for storing and organizing data. It helps improve user experience by ensuring data is structured efficiently and accessed quickly.
 
@@ -124,7 +118,7 @@
 
 - **Seaborn:** A Python library based on Matplotlib used for creating statistical data visualizations. It helps in presenting complex data in a way that is easily understood by users, improving UX through clarity and comprehensibility.
 
-### Design & Prototyping:
+### Design & Prototyping
 <p align="left"> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 

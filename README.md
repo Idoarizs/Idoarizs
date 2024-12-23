@@ -36,18 +36,6 @@
   </a> 
 </p>
 
-- **HTML:** 📝 HTML structures the content of web pages and defines the layout. It is key to making sure users can easily navigate the webpage and understand its content, supporting accessibility and usability.
-  
-- **CSS:** 🎨 CSS defines how HTML elements should be styled, enabling designers to craft responsive, visually appealing designs. Good use of CSS ensures alignment with UI/UX principles like consistency, simplicity, and accessibility.
-
-- **Bootstrap:** 📱 A responsive design framework that offers pre-built CSS and JavaScript components. It ensures that websites look good on all devices, following the principle of mobile-first design and providing an efficient path to responsive layouts.
-
-- **Tailwind CSS:** 🏗️ Tailwind is a utility-first CSS framework that provides numerous classes to apply styles directly in the HTML. It accelerates development while maintaining design flexibility, encouraging minimalism and consistent styling across the application.
-
-- **ReactJS:** ⚛️ React is used for building user interfaces, especially for single-page applications. It promotes component-based design, enabling reusable UI elements that enhance maintainability and interactivity, key elements of a seamless user experience.
-
-- **NextJS:** 🚀 A React-based framework that supports server-side rendering and static site generation. It is great for improving page loading speed, SEO optimization, and ensuring fast navigation, all crucial for enhancing UX.
-
 ## **Backend Development & Database** ⚙️  
 <p align="left"> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
@@ -64,14 +52,6 @@
   </a> 
 </p>
 
-- **MySQL:** 🗃️ A relational database management system used for storing and organizing data. It helps improve user experience by ensuring data is structured efficiently and accessed quickly.
-
-- **Express.js:** 🔥 A flexible Node.js framework used for building fast and scalable web applications. It is great for creating robust APIs that enhance performance, which directly improves user experience by ensuring quick data retrieval.
-
-- **Python:** 🐍 Python is widely used for backend development and data processing. It helps implement features that focus on performance and reliability, ensuring that the server-side logic works seamlessly to support the overall user experience.
-
-- **Flask:** 🏗️ A lightweight Python framework that is great for building scalable web applications. Flask allows for the creation of clean, maintainable APIs, providing users with smooth interactions through optimized backend logic.
-
 ## **Mobile App Development** 📱  
 <p align="left"> 
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
@@ -81,10 +61,6 @@
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
   </a> 
 </p>
-
-- **Flutter:** 🦋 Flutter is a UI toolkit for building natively compiled applications. It enables developers to create highly interactive, smooth, and responsive UIs, adhering to mobile UX best practices like intuitive navigation and gesture support.
-
-- **Dart:** 🌍 Dart is the programming language used for building apps with Flutter. It is optimized for building high-performance apps that offer a seamless user experience with fast rendering and responsive designs.
 
 ## **AI/ML Model Development & Data Science** 📊  
 <p align="left"> 
@@ -99,7 +75,10 @@
   </a> 
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-  </a> 
+  </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+  </a>
 </p>
 
 - **Pandas:** 🐼 A data manipulation library in Python, useful for handling large datasets. It plays a crucial role in data analysis, enabling data-driven decisions that can be used to improve UI/UX based on real user behavior.
@@ -109,6 +88,8 @@
 - **TensorFlow:** 🧠 An open-source machine learning framework that is often used for building neural networks. It allows for the implementation of AI-driven features that can adapt and improve user experience over time.
 
 - **Seaborn:** 📊 A Python library based on Matplotlib used for creating statistical data visualizations. It helps in presenting complex data in a way that is easily understood by users, improving UX through clarity and comprehensibility.
+
+- **NumPy:** 🔢 A foundational library for numerical computing in Python. It provides support for large, multi-dimensional arrays and matrices, along with a collection of high-level mathematical functions to operate on these arrays. It's essential for AI/ML workflows, especially when handling large datasets or performing mathematical operations efficiently.
 
 ## **Design & Prototyping** 🎨  
 <p align="left"> 

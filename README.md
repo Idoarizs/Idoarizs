@@ -52,9 +52,6 @@
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.peanutsquare.com/wp-content/uploads/2024/04/Express.png" alt="express" width="40" height="40"/> 
   </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
     <img src="https://static-00.iconduck.com/assets.00/flask-icon-1594x2048-84mjydzf.png" alt="flask" width="40" height="40"/> 
   </a> 
@@ -63,7 +60,6 @@
 **Explanation:**
 - **MySQL:** A popular relational database management system for storing and retrieving data, supporting SQL (Structured Query Language).
 - **Express:** A lightweight framework for building Node.js web applications, simplifying server setup and routing.
-- **Python:** A versatile, high-level programming language often used in web development, data analysis, and machine learning.
 - **Flask:** A micro web framework for Python that is simple and lightweight, ideal for building small to medium-sized applications.
 
 ## **Mobile App Development** 📱  
@@ -71,14 +67,10 @@
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
   </a> 
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
-  </a> 
 </p>
 
 **Explanation:**
 - **Flutter:** A UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
-- **Dart:** A programming language used with Flutter for building applications. It offers a rich set of libraries and tools for mobile and web development.
 
 ## **AI/ML Model Development & Data Science** 📊  
 <p align="left"> 

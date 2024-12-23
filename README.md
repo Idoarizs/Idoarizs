@@ -1,5 +1,5 @@
 # Hi 👋, I'm Aodi Rizky Saputra
-### A passionate learner in Technology, striving to create valuable solutions with a positive impact.
+## A passionate learner in Technology, striving to create valuable solutions with a positive impact.
 
 🌱 Currently diving deep into **Web & Mobile App Development**, **AI/ML Model Development**, and **Data Science** to expand my knowledge and build impactful solutions.  
 👨‍💻 Explore all of my projects on my [Portfolio](https://aodisaputra.vercel.app/), showcasing my learning journey.  

@@ -41,8 +41,8 @@
 - **CSS3:** Used for styling HTML content, adding design elements such as layout, colors, and fonts.
 - **Bootstrap:** A front-end framework for faster and easier web development, providing pre-designed templates for UI components.
 - **Tailwind CSS:** A utility-first CSS framework that allows for rapid UI development with customizable design elements.
-- **React:** A JavaScript library for building user interfaces, particularly for single-page applications (SPAs), with reusable components.
-- **Next.js:** A React framework for building server-side rendering (SSR) apps, static websites, and more with optimal performance.
+- **ReactJS:** A JavaScript library for building user interfaces, particularly for single-page applications (SPAs), with reusable components.
+- **NextJS:** A React framework for building server-side rendering (SSR) apps, static websites, and more with optimal performance.
 
 ## **Backend Development & Database** ⚙️  
 <p align="left"> 
@@ -59,7 +59,7 @@
 
 **Explanation:**
 - **MySQL:** A popular relational database management system for storing and retrieving data, supporting SQL (Structured Query Language).
-- **Express:** A lightweight framework for building Node.js web applications, simplifying server setup and routing.
+- **ExpressJS:** A lightweight framework for building Node.js web applications, simplifying server setup and routing.
 - **Flask:** A micro web framework for Python that is simple and lightweight, ideal for building small to medium-sized applications.
 
 ## **Mobile App Development** 📱  

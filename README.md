@@ -1,9 +1,9 @@
-![image](https://github.com/user-attachments/assets/ea53f6e1-9872-4bf7-947c-74222bbcc200)<h1 align="center">Hi 👋, I'm Aodi Rizky Saputra</h1>
-<h3 align="center">A passionate learner in Technology, striving to create valuable solutions with a positive impact.</h3>
+# Hi 👋, I'm Aodi Rizky Saputra
+### A passionate learner in Technology, striving to create valuable solutions with a positive impact.
 
-🌱 Currently, I'm diving deep into **Web & Mobile App Development**, **AI/ML Model Development**, and **Data Science** to expand my knowledge and build impactful solutions.
-👨‍💻 You can explore all of my projects on my [Portfolio](https://aodisaputra.vercel.app/), showcasing the journey of my learning and development.
-📫 Feel free to reach out to me at **aodirizky05@gmail.com** – I’m always excited to connect, collaborate, and explore new opportunities!
+🌱 Currently diving deep into **Web & Mobile App Development**, **AI/ML Model Development**, and **Data Science** to expand my knowledge and build impactful solutions.
+👨‍💻 Explore all of my projects on my [Portfolio](https://aodisaputra.vercel.app/), showcasing my learning journey.
+📫 Feel free to reach out at **aodirizky05@gmail.com** – always excited to connect and explore new opportunities!
 
 <h3 align="left">Soial Media</h3>
 <p align="left">

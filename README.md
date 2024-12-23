@@ -44,9 +44,9 @@
 
 - **Tailwind CSS:** 🏗️ Tailwind is a utility-first CSS framework that provides numerous classes to apply styles directly in the HTML. It accelerates development while maintaining design flexibility, encouraging minimalism and consistent styling across the application.
 
-- **React:** ⚛️ React is used for building user interfaces, especially for single-page applications. It promotes component-based design, enabling reusable UI elements that enhance maintainability and interactivity, key elements of a seamless user experience.
+- **ReactJS:** ⚛️ React is used for building user interfaces, especially for single-page applications. It promotes component-based design, enabling reusable UI elements that enhance maintainability and interactivity, key elements of a seamless user experience.
 
-- **Next.js:** 🚀 A React-based framework that supports server-side rendering and static site generation. It is great for improving page loading speed, SEO optimization, and ensuring fast navigation, all crucial for enhancing UX.
+- **NextJS:** 🚀 A React-based framework that supports server-side rendering and static site generation. It is great for improving page loading speed, SEO optimization, and ensuring fast navigation, all crucial for enhancing UX.
 
 ## **Mobile App Development** 📱  
 <p align="left"> 

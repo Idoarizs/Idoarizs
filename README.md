@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aodi Rizky Saputra</h1>
 <h3 align="center">A passionate learner in Technology, striving to create valuable solutions with a positive impact.</h3>
 
-- 🌱 I’m currently learning **Web & Mobile App Development, AI/ML Model Development, and Data Science**
-- 👨‍💻 All of my projects are available at [Aodi's Projects](https://aodisaputra.vercel.app/)
-- 📫 How to reach me: **aodirizky05@gmail.com**
+🌱 Currently, I'm diving deep into **Web & Mobile App Development**, **AI/ML Model Development**, and **Data Science** to expand my knowledge and build impactful solutions.
+👨‍💻 You can explore all of my projects on my [Portfolio](https://aodisaputra.vercel.app/), showcasing the journey of my learning and development.
+📫 Feel free to reach out to me at **aodirizky05@gmail.com** – I’m always excited to connect, collaborate, and explore new opportunities!
 
 <h3 align="left">Soial Media</h3>
 <p align="left">
@@ -14,7 +14,7 @@
 
 <h3 align="left">Languages and Tools</h3>
 
-### Frontend Development
+# **Frontend Development**
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -36,7 +36,7 @@
   </a> 
 </p>
 
-**Frontend Tools**
+## **Frontend Tools**
 
 - **HTML:** HTML structures the content of web pages and defines the layout. It is key to making sure users can easily navigate the webpage and understand its content, supporting accessibility and usability.
   
@@ -50,7 +50,7 @@
 
 - **Next.js:** A React-based framework that supports server-side rendering and static site generation. It is great for improving page loading speed, SEO optimization, and ensuring fast navigation, all crucial for enhancing UX.
 
-### Mobile App Development
+# **Mobile App Development**
 <p align="left"> 
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
@@ -60,13 +60,13 @@
   </a> 
 </p>
 
-**Mobile App Tools**
+## **Mobile App Tools**
 
 - **Flutter:** Flutter is a UI toolkit for building natively compiled applications. It enables developers to create highly interactive, smooth, and responsive UIs, adhering to mobile UX best practices like intuitive navigation and gesture support.
 
 - **Dart:** Dart is the programming language used for building apps with Flutter. It is optimized for building high-performance apps that offer a seamless user experience with fast rendering and responsive designs.
 
-### Backend Development
+# **Backend Development**
 <p align="left"> 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
@@ -79,7 +79,7 @@
   </a> 
 </p>
 
-**Backend Tools**
+## **Backend Tools**
 
 - **Express.js:** A flexible Node.js framework used for building fast and scalable web applications. It is great for creating robust APIs that enhance performance, which directly improves user experience by ensuring quick data retrieval.
 
@@ -87,7 +87,7 @@
 
 - **Flask:** A lightweight Python framework that is great for building scalable web applications. Flask allows for the creation of clean, maintainable APIs, providing users with smooth interactions through optimized backend logic.
 
-### Database & Data Science
+# **Database & Data Science**
 <p align="left"> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
@@ -106,7 +106,7 @@
   </a> 
 </p>
 
-**Database & Data Science Tools**
+## **Database & Data Science Tools**
 
 - **MySQL:** A relational database management system used for storing and organizing data. It helps improve user experience by ensuring data is structured efficiently and accessed quickly.
 
@@ -118,7 +118,7 @@
 
 - **Seaborn:** A Python library based on Matplotlib used for creating statistical data visualizations. It helps in presenting complex data in a way that is easily understood by users, improving UX through clarity and comprehensibility.
 
-### Design & Prototyping
+# **Design & Prototyping**
 <p align="left"> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
@@ -131,7 +131,7 @@
   </a> 
 </p>
 
-**Design Tools:**
+## **Design Tools**
 
 - **Figma:** A collaborative interface design tool that allows teams to create high-fidelity prototypes and UI designs. It’s essential for refining the visual elements of a product, supporting UX principles like consistency and accessibility.
 

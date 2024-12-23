@@ -1,11 +1,11 @@
-# Hi 👋, I'm Aodi Rizky Saputra
+# **About Me**
 ## A passionate learner in Technology, striving to create valuable solutions with a positive impact.
 
 🌱 Currently diving deep into **Web & Mobile App Development**, **AI/ML Model Development**, and **Data Science** to expand my knowledge and build impactful solutions.  
 👨‍💻 Explore all of my projects on my [Portfolio](https://aodisaputra.vercel.app/), showcasing my learning journey.  
 📫 Feel free to reach out at **aodirizky05@gmail.com** – always excited to connect and explore new opportunities!
 
-## Social Media
+## **Social Media**
 <p align="left">
   <a href="https://linkedin.com/in/aodisaputra" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aodisaputra" height="30" width="40" />

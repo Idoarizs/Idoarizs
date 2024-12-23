@@ -15,76 +15,111 @@
 # **Languages and Tools**  
 
 ## **Frontend Development** 🚀  
-These technologies are essential for building the visual elements and user interfaces of web applications:
+<p align="left"> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a> 
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+    <img src="https://static-00.iconduck.com/assets.00/bootstrap-icon-2048x2048-az9h1iwm.png" alt="bootstrap" width="40" height="40"/> 
+  </a> 
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+  </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a> 
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/fluent-systems-filled/200/FFFFFF/nextjs.png" alt="nextjs" width="40" height="40"/> 
+  </a> 
+</p>
 
-- **HTML5** 🧑‍💻  
-  HTML5 is the latest version of the HyperText Markup Language. It’s used to create the structure and content of web pages, such as text, images, videos, and links. HTML5 introduces several new features, including native video and audio embedding, to enhance the multimedia experience.
-
-- **CSS3** 🎨  
-  CSS3 is the latest version of Cascading Style Sheets. It controls the layout and presentation of the content in HTML. CSS3 enables modern styling techniques like animations, transitions, and responsive design, which allows websites to adapt to various screen sizes.
-
-- **Bootstrap** 📱  
-  Bootstrap is a front-end framework that makes it easier to create responsive, mobile-first websites. It provides a collection of pre-designed components and templates that speed up the development process and ensure consistent design across devices.
-
-- **Tailwind CSS** 🖌️  
-  Tailwind CSS is a utility-first CSS framework that allows developers to create custom designs without having to leave HTML. It provides a wide range of predefined classes for styling, making it faster to prototype and create designs.
-
-- **React** ⚛️  
-  React is a popular JavaScript library for building user interfaces, particularly for single-page applications. React enables the development of complex UIs with reusable components, making code easier to maintain and scale.
-
-- **Next.js** 🌍  
-  Next.js is a React-based framework that enables server-side rendering and static site generation. It helps developers build fast, SEO-friendly web applications and makes it easy to handle routing, API calls, and dynamic pages.
+**Explanation:**
+- **HTML5:** Used to structure content on the web with a set of tags for elements like text, images, and links.
+- **CSS3:** Used for styling HTML content, adding design elements such as layout, colors, and fonts.
+- **Bootstrap:** A front-end framework for faster and easier web development, providing pre-designed templates for UI components.
+- **Tailwind CSS:** A utility-first CSS framework that allows for rapid UI development with customizable design elements.
+- **React:** A JavaScript library for building user interfaces, particularly for single-page applications (SPAs), with reusable components.
+- **Next.js:** A React framework for building server-side rendering (SSR) apps, static websites, and more with optimal performance.
 
 ## **Backend Development & Database** ⚙️  
-Backend development focuses on server-side programming and database management. Here are the technologies I use:
+<p align="left"> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a> 
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+    <img src="https://www.peanutsquare.com/wp-content/uploads/2024/04/Express.png" alt="express" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://static-00.iconduck.com/assets.00/flask-icon-1594x2048-84mjydzf.png" alt="flask" width="40" height="40"/> 
+  </a> 
+</p>
 
-- **MySQL** 🗄️  
-  MySQL is an open-source relational database management system. It uses Structured Query Language (SQL) to manage data, making it an essential tool for applications that require reliable, structured data storage and retrieval.
-
-- **Express.js** 🚀  
-  Express.js is a web application framework for Node.js. It simplifies the process of building and handling HTTP requests, routing, middleware, and other essential features for creating scalable and fast web applications.
-
-- **Python** 🐍  
-  Python is a versatile programming language used for backend development, data analysis, and more. Its simplicity and readability make it a favorite among developers for both scripting and building complex applications.
-
-- **Flask** 🏗️  
-  Flask is a lightweight Python web framework used for building small and scalable web applications. It’s simple to use and provides flexibility, allowing developers to add just the right amount of functionality needed.
+**Explanation:**
+- **MySQL:** A popular relational database management system for storing and retrieving data, supporting SQL (Structured Query Language).
+- **Express:** A lightweight framework for building Node.js web applications, simplifying server setup and routing.
+- **Python:** A versatile, high-level programming language often used in web development, data analysis, and machine learning.
+- **Flask:** A micro web framework for Python that is simple and lightweight, ideal for building small to medium-sized applications.
 
 ## **Mobile App Development** 📱  
-Mobile app development focuses on creating applications for mobile devices. These tools help streamline the development of cross-platform apps:
+<p align="left"> 
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
+  </a> 
+  <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
+  </a> 
+</p>
 
-- **Flutter** 🦋  
-  Flutter is a UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase. It uses the Dart programming language and is known for fast development and expressive UIs.
-
-- **Dart** 🦄  
-  Dart is the programming language used with Flutter to build high-performance, cross-platform apps. It’s optimized for building user interfaces and has a syntax that is familiar to JavaScript and Java developers.
+**Explanation:**
+- **Flutter:** A UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
+- **Dart:** A programming language used with Flutter for building applications. It offers a rich set of libraries and tools for mobile and web development.
 
 ## **AI/ML Model Development & Data Science** 📊  
-AI/ML and data science are essential for building intelligent systems that can adapt to user behavior and improve experiences over time:
+<p align="left"> 
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+  </a> 
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+  </a> 
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
+  </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+  </a>
+</p>
 
-- **Pandas** 🐼  
-  Pandas is a powerful Python library used for data manipulation and analysis. It allows you to handle large datasets and perform various data operations, such as filtering, merging, and reshaping data, which are essential for making data-driven decisions.
-
-- **Scikit-learn** 🔍  
-  Scikit-learn is a machine learning library for Python that provides simple and efficient tools for data mining and data analysis. It includes a wide range of algorithms for classification, regression, clustering, and more.
-
-- **TensorFlow** 🧠  
-  TensorFlow is an open-source machine learning framework used for building and training machine learning models, particularly deep learning models. It allows you to create complex models for tasks like image recognition, natural language processing, and recommendation systems.
-
-- **Seaborn** 📊  
-  Seaborn is a statistical data visualization library built on top of Matplotlib. It makes it easy to generate informative and attractive statistical plots, which are essential for understanding patterns and insights in data.
-
-- **NumPy** 🔢  
-  NumPy is a fundamental package for numerical computing in Python. It provides support for large, multi-dimensional arrays and matrices, and a collection of mathematical functions to perform operations on these arrays. It is widely used in AI/ML workflows.
+**Explanation:**
+- **Pandas:** A Python library for data manipulation and analysis, providing data structures like DataFrame for handling structured data.
+- **Scikit-learn:** A machine learning library for Python, providing simple and efficient tools for data mining and data analysis.
+- **TensorFlow:** A popular open-source library for machine learning and deep learning, offering tools for building and training neural networks.
+- **Seaborn:** A Python visualization library built on top of Matplotlib, providing a high-level interface for creating attractive statistical graphics.
+- **NumPy:** A core library for scientific computing in Python, providing support for large multi-dimensional arrays and matrices, along with a collection of mathematical functions.
 
 ## **Design & Prototyping** 🎨  
-Design and prototyping tools help create visually appealing and user-friendly applications:
+<p align="left"> 
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/> 
+  </a> 
+</p>
 
-- **Figma** 🎨  
-  Figma is a collaborative design tool used for UI/UX design and prototyping. It enables teams to design interfaces and create interactive prototypes, allowing for quick iterations and real-time collaboration.
-
-- **Adobe Illustrator** ✏️  
-  Adobe Illustrator is a vector graphics editor used to create scalable illustrations, logos, and icons. It is an industry-standard tool for graphic design, allowing precise and high-quality creations.
-
-- **Adobe Photoshop** 📸  
-  Adobe Photoshop is a powerful image editing software used for creating and editing raster graphics. It’s widely used for tasks like photo manipulation, creating web assets, and designing user interfaces.
+**Explanation:**
+- **Figma:** A cloud-based design tool for UI/UX design, allowing collaborative design processes with real-time editing.
+- **Adobe Illustrator:** A vector graphics editor used for creating illustrations, logos, and scalable artwork.
+- **Adobe Photoshop:** A raster graphics editor used for photo manipulation, web design, and digital artwork creation.

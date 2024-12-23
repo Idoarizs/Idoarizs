@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aodi Rizky Saputra</h1>
+![image](https://github.com/user-attachments/assets/ea53f6e1-9872-4bf7-947c-74222bbcc200)<h1 align="center">Hi 👋, I'm Aodi Rizky Saputra</h1>
 <h3 align="center">A passionate learner in Technology, striving to create valuable solutions with a positive impact.</h3>
 
 🌱 Currently, I'm diving deep into **Web & Mobile App Development**, **AI/ML Model Development**, and **Data Science** to expand my knowledge and build impactful solutions.
@@ -36,8 +36,6 @@
   </a> 
 </p>
 
-## **Frontend Tools**
-
 - **HTML:** HTML structures the content of web pages and defines the layout. It is key to making sure users can easily navigate the webpage and understand its content, supporting accessibility and usability.
   
 - **CSS:** CSS defines how HTML elements should be styled, enabling designers to craft responsive, visually appealing designs. Good use of CSS ensures alignment with UI/UX principles like consistency, simplicity, and accessibility.
@@ -60,8 +58,6 @@
   </a> 
 </p>
 
-## **Mobile App Tools**
-
 - **Flutter:** Flutter is a UI toolkit for building natively compiled applications. It enables developers to create highly interactive, smooth, and responsive UIs, adhering to mobile UX best practices like intuitive navigation and gesture support.
 
 - **Dart:** Dart is the programming language used for building apps with Flutter. It is optimized for building high-performance apps that offer a seamless user experience with fast rendering and responsive designs.
@@ -78,8 +74,6 @@
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
   </a> 
 </p>
-
-## **Backend Tools**
 
 - **Express.js:** A flexible Node.js framework used for building fast and scalable web applications. It is great for creating robust APIs that enhance performance, which directly improves user experience by ensuring quick data retrieval.
 
@@ -106,8 +100,6 @@
   </a> 
 </p>
 
-## **Database & Data Science Tools**
-
 - **MySQL:** A relational database management system used for storing and organizing data. It helps improve user experience by ensuring data is structured efficiently and accessed quickly.
 
 - **Pandas:** A data manipulation library in Python, useful for handling large datasets. It plays a crucial role in data analysis, enabling data-driven decisions that can be used to improve UI/UX based on real user behavior.
@@ -124,14 +116,12 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a> 
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Adobe_Illustrator_CC_icon.png" alt="illustrator" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
   </a> 
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Adobe_Photoshop_Express_Logo.png" alt="photoshop" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/> 
   </a> 
 </p>
-
-## **Design Tools**
 
 - **Figma:** A collaborative interface design tool that allows teams to create high-fidelity prototypes and UI designs. It’s essential for refining the visual elements of a product, supporting UX principles like consistency and accessibility.
 

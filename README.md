@@ -126,17 +126,3 @@
 - **Figma:** 🎨 A collaborative interface design tool that allows teams to create high-fidelity prototypes and UI designs. It’s essential for refining the visual elements of a product, supporting UX principles like consistency and accessibility.
 
 - **Adobe Illustrator & Photoshop:** ✏️ Both tools are used for creating vector graphics and high-quality images. They help designers craft visuals that align with the desired aesthetic and user experience, whether it's for icons, illustrations, or detailed designs.
-
-## **Video Production & Editing** 🎬 
-<p align="left">
-  <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/2101px-Adobe_Premiere_Pro_CC_icon.svg.png" alt="premiere pro" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/1200px-Adobe_After_Effects_CC_icon.svg.png" alt="after effects" width="40" height="40"/>
-  </a>
-</p>
-
-- **Adobe Premiere Pro:** A professional video editing software that allows you to assemble and edit video clips, adjust color grading, and fine-tune audio for high-quality video production. It's perfect for creating polished, engaging videos for digital platforms.
-
-- **Adobe After Effects:** A powerful tool for creating motion graphics, visual effects, and animation. Ideal for adding dynamic and artistic touches to video content, After Effects is used for creating visually engaging effects that make videos stand out.

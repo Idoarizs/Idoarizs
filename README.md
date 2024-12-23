@@ -1,20 +1,16 @@
 # Hi 👋, I'm Aodi Rizky Saputra
-### A passionate learner in Technology, striving to create valuable solutions with a positive impact.
+## A passionate learner in Technology, striving to create valuable solutions with a positive impact.
 
-🌱 Currently diving deep into **Web & Mobile App Development**, **AI/ML Model Development**, and **Data Science** to expand my knowledge and build impactful solutions.
-👨‍💻 Explore all of my projects on my [Portfolio](https://aodisaputra.vercel.app/), showcasing my learning journey.
+🌱 Currently diving deep into **Web & Mobile App Development**, **AI/ML Model Development**, and **Data Science** to expand my knowledge and build impactful solutions.  
+👨‍💻 Explore all of my projects on my [Portfolio](https://aodisaputra.vercel.app/), showcasing my learning journey.  
 📫 Feel free to reach out at **aodirizky05@gmail.com** – always excited to connect and explore new opportunities!
 
-<h3 align="left">Soial Media</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/aodisaputra" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aodisaputra" height="30" width="40" />
-  </a>
-</p>
+## Social Media
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/aodisaputra)
 
 <h3 align="left">Languages and Tools</h3>
-
-# **Frontend Development**
+# **Languages and Tools**
+## **Frontend Development**
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -48,7 +44,7 @@
 
 - **Next.js:** A React-based framework that supports server-side rendering and static site generation. It is great for improving page loading speed, SEO optimization, and ensuring fast navigation, all crucial for enhancing UX.
 
-# **Mobile App Development**
+## **Mobile App Development**
 <p align="left"> 
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
@@ -62,7 +58,7 @@
 
 - **Dart:** Dart is the programming language used for building apps with Flutter. It is optimized for building high-performance apps that offer a seamless user experience with fast rendering and responsive designs.
 
-# **Backend Development**
+## **Backend Development**
 <p align="left"> 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
@@ -81,7 +77,7 @@
 
 - **Flask:** A lightweight Python framework that is great for building scalable web applications. Flask allows for the creation of clean, maintainable APIs, providing users with smooth interactions through optimized backend logic.
 
-# **Database & Data Science**
+## **Database & Data Science**
 <p align="left"> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
@@ -110,7 +106,7 @@
 
 - **Seaborn:** A Python library based on Matplotlib used for creating statistical data visualizations. It helps in presenting complex data in a way that is easily understood by users, improving UX through clarity and comprehensibility.
 
-# **Design & Prototyping**
+## **Design & Prototyping**
 <p align="left"> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
@@ -126,3 +122,17 @@
 - **Figma:** A collaborative interface design tool that allows teams to create high-fidelity prototypes and UI designs. It’s essential for refining the visual elements of a product, supporting UX principles like consistency and accessibility.
 
 - **Adobe Illustrator & Photoshop:** Both tools are used for creating vector graphics and high-quality images. They help designers craft visuals that align with the desired aesthetic and user experience, whether it's for icons, illustrations, or detailed designs.
+
+## **Video Production & Editing**
+<p align="left">
+  <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/2101px-Adobe_Premiere_Pro_CC_icon.svg.png" alt="premiere pro" width="40" height="40"/>
+  </a>
+  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/1200px-Adobe_After_Effects_CC_icon.svg.png" alt="after effects" width="40" height="40"/>
+  </a>
+</p>
+
+- **Adobe Premiere Pro:** A professional video editing software that allows you to assemble and edit video clips, adjust color grading, and fine-tune audio for high-quality video production. It's perfect for creating polished, engaging videos for digital platforms.
+
+- **Adobe After Effects:** A powerful tool for creating motion graphics, visual effects, and animation. Ideal for adding dynamic and artistic touches to video content, After Effects is used for creating visually engaging effects that make videos stand out.

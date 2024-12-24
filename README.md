@@ -12,6 +12,19 @@
   </a>
 </p>
 
+# **Download CV and Resume**  
+<p align="left">  
+  <a href="https://drive.google.com/file/d/1aSB6BZVy8Heq8OJ0RvZKbOAqQHga5Rlv/view?usp=sharing" target="_blank">  
+    <img src="https://img.icons8.com/color/48/000000/resume.png" alt="CV" width="40" height="40"/>  
+    <span>CV</span>  
+  </a>  
+  <br>  
+  <a href="https://drive.google.com/file/d/1AOp5A8zTz04Ifd9DQrO5cM-cs8vUEJfD/view?usp=sharing" target="_blank">  
+    <img src="https://img.icons8.com/color/48/000000/documents.png" alt="Resume" width="40" height="40"/>  
+    <span>Portfolio</span>  
+  </a>  
+</p>
+
 # **Languages and Tools**  
 
 ## **Frontend Development** 🚀  

@@ -103,15 +103,7 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a> 
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/> 
-  </a> 
 </p>
 
 **Explanation:**
 - **Figma:** A cloud-based design tool for UI/UX design, allowing collaborative design processes with real-time editing.
-- **Adobe Illustrator:** A vector graphics editor used for creating illustrations, logos, and scalable artwork.
-- **Adobe Photoshop:** A raster graphics editor used for photo manipulation, web design, and digital artwork creation.

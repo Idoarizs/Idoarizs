@@ -6,14 +6,16 @@
 📫 Feel free to reach out at **aodirizky05@gmail.com** – always excited to connect and explore new opportunities!
 
 <p align="left">  
-  <a href="https://drive.google.com/file/d/1aSB6BZVy8Heq8OJ0RvZKbOAqQHga5Rlv/view?usp=sharing" target="_blank">  
-    <img src="https://img.icons8.com/color/48/000000/resume.png" alt="CV" width="40" height="40"/>  
-    <span>CV</span>  
+  <a href="https://drive.google.com/file/d/1aSB6BZVy8Heq8OJ0RvZKbOAqQHga5Rlv/view?usp=sharing" target="_blank" style="text-decoration: none;">  
+    <button style="background-color: #4CAF50; border: none; color: white; padding: 10px 20px; text-align: center; font-size: 16px; cursor: pointer; border-radius: 5px;">  
+      Download CV  
+    </button>  
   </a>  
-  <br>  
-  <a href="https://drive.google.com/file/d/1AOp5A8zTz04Ifd9DQrO5cM-cs8vUEJfD/view?usp=sharing" target="_blank">  
-    <img src="https://img.icons8.com/color/48/000000/documents.png" alt="Resume" width="40" height="40"/>  
-    <span>Portfolio</span>  
+  <br><br>  
+  <a href="https://drive.google.com/file/d/1AOp5A8zTz04Ifd9DQrO5cM-cs8vUEJfD/view?usp=sharing" target="_blank" style="text-decoration: none;">  
+    <button style="background-color: #008CBA; border: none; color: white; padding: 10px 20px; text-align: center; font-size: 16px; cursor: pointer; border-radius: 5px;">  
+      Download Portfolio  
+    </button>  
   </a>  
 </p>
 

@@ -5,14 +5,6 @@
 👨‍💻 Explore all of my projects on my [**Personal Website**](https://aodisaputra.vercel.app/), showcasing my learning journey.  
 📫 Feel free to reach out at **aodirizky05@gmail.com** – always excited to connect and explore new opportunities!
 
-## **Social Media**  
-<p align="left">
-  <a href="https://linkedin.com/in/aodisaputra" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aodisaputra" height="30" width="40" />
-  </a>
-</p>
-
-# **Download CV and Resume**  
 <p align="left">  
   <a href="https://drive.google.com/file/d/1aSB6BZVy8Heq8OJ0RvZKbOAqQHga5Rlv/view?usp=sharing" target="_blank">  
     <img src="https://img.icons8.com/color/48/000000/resume.png" alt="CV" width="40" height="40"/>  
@@ -23,6 +15,13 @@
     <img src="https://img.icons8.com/color/48/000000/documents.png" alt="Resume" width="40" height="40"/>  
     <span>Portfolio</span>  
   </a>  
+</p>
+
+## **Social Media**  
+<p align="left">
+  <a href="https://linkedin.com/in/aodisaputra" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aodisaputra" height="30" width="40" />
+  </a>
 </p>
 
 # **Languages and Tools**  

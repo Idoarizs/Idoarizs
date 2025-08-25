@@ -1,7 +1,6 @@
 # **About Me**  
 ##  I am passionate about learning and discovering new things that spark my interest, striving to create valuable solutions based on needs with a positive impact.
  
-👨‍💻 Explore all of my projects on my [**Personal Website**](https://aodisaputra.vercel.app/), showcasing my learning journey.  
 📫 Feel free to reach out at **aodirizky05@gmail.com** – always excited to connect and explore new opportunities!
 
 ## **Social Media**  
